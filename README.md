@@ -18,18 +18,18 @@ Aplikasi ini mencakup implementasi dari beberapa konsep dasar PHP, yaitu:
 
 *(Letakkan screenshot tampilan form kosong di sini)*
 
-![Tampilan Form](<img width="1374" height="651" alt="Screenshot 2025-10-03 153210" src="https://github.com/user-attachments/assets/7cc5f6b5-dcd4-4fd5-adfc-b415565ea75e" />)
+![Tampilan Form] <img width="1374" height="651" alt="Tampilan awal" src="https://github.com/user-attachments/assets/64574623-4482-458a-b6c5-f218154feb4f" />
 
 **Tampilan Setelah Pendaftaran Berhasil**
 
 *(Letakkan screenshot tampilan setelah berhasil submit data di sini)*
 
-![Tampilan Sukses](<img width="1904" height="919" alt="Screenshot 2025-10-03 150300" src="https://github.com/user-attachments/assets/dbb99971-7821-4c4e-a8d6-e3a1417a3559" />)
-
+![Tampilan Sukses] <img width="1904" height="919" alt="Sukses" src="https://github.com/user-attachments/assets/411630d1-d8be-4d7e-a3f8-26422acc7a22" />
 
 **Contoh Pesan Error Validasi**
 
 *(Letakkan screenshot tampilan saat ada error validasi di sini)*
 
-![Tampilan Error](<img width="1877" height="755" alt="Screenshot 2025-10-03 150412" src="https://github.com/user-attachments/assets/a5b645d2-0d96-471b-87a3-d5312138a4c5" />)
+![Tampilan Error] <img width="1877" height="755" alt="Terjadi Kesalahan" src="https://github.com/user-attachments/assets/10353730-d82e-496c-8bc2-9b35c4f0b1c5" />
+
 
