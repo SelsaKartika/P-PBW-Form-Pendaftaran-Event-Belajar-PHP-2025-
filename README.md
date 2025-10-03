@@ -18,16 +18,18 @@ Aplikasi ini mencakup implementasi dari beberapa konsep dasar PHP, yaitu:
 
 *(Letakkan screenshot tampilan form kosong di sini)*
 
-![Tampilan Form]("C:\Users\Dell\Pictures\Screenshots\Screenshot 2025-10-03 153210.png")
+![Tampilan Form](<img width="1374" height="651" alt="Screenshot 2025-10-03 153210" src="https://github.com/user-attachments/assets/7cc5f6b5-dcd4-4fd5-adfc-b415565ea75e" />)
 
 **Tampilan Setelah Pendaftaran Berhasil**
 
 *(Letakkan screenshot tampilan setelah berhasil submit data di sini)*
 
-![Tampilan Sukses]("C:\Users\Dell\Pictures\Screenshots\Screenshot 2025-10-03 150300.png")
+![Tampilan Sukses](<img width="1904" height="919" alt="Screenshot 2025-10-03 150300" src="https://github.com/user-attachments/assets/dbb99971-7821-4c4e-a8d6-e3a1417a3559" />)
+
 
 **Contoh Pesan Error Validasi**
 
 *(Letakkan screenshot tampilan saat ada error validasi di sini)*
 
-![Tampilan Error]("C:\Users\Dell\Pictures\Screenshots\Screenshot 2025-10-03 150412.png")
+![Tampilan Error](<img width="1877" height="755" alt="Screenshot 2025-10-03 150412" src="https://github.com/user-attachments/assets/a5b645d2-0d96-471b-87a3-d5312138a4c5" />)
+
